@@ -1,0 +1,15 @@
+.add-button {
+  height: 50px;
+  width: 50px;
+  background-color: $blue;
+  position: fixed;
+  border-radius: 25px;
+  top: 85%;
+  left: 92%;
+
+  a {
+    color: $white;
+    text-decoration: none;
+    font-size: 30px;
+  }
+}
